@@ -31,3 +31,14 @@ Overall, the portfolio reflects my journey and progress in front-end development
 
 ---
 ✅ Task Completed as per the CodTech Internship Guidelines.
+
+*output*
+<img width="1870" height="899" alt="Image" src="https://github.com/user-attachments/assets/3d9d97b7-4f68-4367-9c01-bda3f2a30182" />
+
+<img width="1879" height="911" alt="Image" src="https://github.com/user-attachments/assets/7fe2f90f-2d01-4b2f-8fca-dbb7be415bcb" />
+
+<img width="1880" height="907" alt="Image" src="https://github.com/user-attachments/assets/6bd0ef6c-1e9f-4875-97ba-c59d953370b4" />
+
+<img width="1885" height="904" alt="Image" src="https://github.com/user-attachments/assets/1b74dc8a-e8f5-416c-accf-9bf438e4b8b2" />
+
+<img width="1884" height="909" alt="Image" src="https://github.com/user-attachments/assets/ba9c10fb-809b-4b1b-80c5-cd6cb5b014cd" />
